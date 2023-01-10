@@ -6,10 +6,10 @@
       "value": "employee-asp"
     },
     "administratorLogin": {
-      "value": "shivadmin"
+      "value": "testuser"
     },
     "administratorLoginPassword": {
-      "value": "Shiv_Admin@123"
+      "value": "@test123"
     },
     "databaseName": {
       "value": "EmployeesDB"
